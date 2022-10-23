@@ -1,5 +1,7 @@
 import NavBar from './NavBar';
+import EnhancedTableHead from './EnhancedTableHead';
 
 export {
-    NavBar
+    NavBar,
+    EnhancedTableHead
 };
